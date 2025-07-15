@@ -8,9 +8,11 @@ This is a basic React/Vite project for a video-related task.
    ```bash
    npm install
 2. Start the development server:
+    ```bash
    npm run dev
 
 ## Project Structure
+ ```bash
 video-task/
 ├── public/
 ├── src/
